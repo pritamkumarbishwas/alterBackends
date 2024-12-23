@@ -22,6 +22,8 @@ AlterBackends is a backend project built using **Node.js**, **Express.js**, and 
 - **Joi** for validation
 - **JWT** for authentication
 - **Redis** for Cache
+- **Docker** for Containerization
+- **Passport** for Google Auth
 
 ## Installation
 
