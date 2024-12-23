@@ -400,3 +400,738 @@
 2024-12-23 21:02:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
 2024-12-23 21:02:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
 2024-12-23 21:02:20 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:33 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:35 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:35 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:35 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:44 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:47 [ERROR]: Error with PING: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:53 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:54 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:55 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:56 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:56 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:56 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:57 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:58 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:59 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:31:59 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:00 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:01 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:02 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:02 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:03 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:04 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:05 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:06 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:07 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:07 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:08 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:09 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:10 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:11 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:12 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:13 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:14 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:15 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:16 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:17 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:18 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:19 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:20 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:21 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:22 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:23 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:24 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:25 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:26 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:27 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:28 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:29 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:30 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:31 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:32 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:33 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:34 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:35 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:36 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:37 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:38 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:39 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:40 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:41 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:42 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:43 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:44 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:45 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:46 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:47 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:48 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:49 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:50 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:51 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [ERROR]: Redis error: Error: connect ECONNREFUSED 127.0.0.1:6379
+2024-12-23 21:32:52 [INFO]: Connected to Redis
+2024-12-23 21:32:53 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:32:54 [INFO]: Connected to Redis
+2024-12-23 21:33:20 [INFO]: Connected to Redis
+2024-12-23 21:33:20 [INFO]: PING result: PONG
+2024-12-23 21:33:22 [INFO]: Connected to Redis
+2024-12-23 21:33:22 [INFO]: Connected to Redis
+2024-12-23 21:33:22 [INFO]: Connected to Redis
+2024-12-23 21:33:22 [INFO]: PING result: PONG
+2024-12-23 21:33:22 [INFO]: PING result: PONG
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:22 [INFO]: Connected to Redis
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:23 [INFO]: Connected to Redis
+2024-12-23 21:33:23 [INFO]: Connected to Redis
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:23 [INFO]: Connected to Redis
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:23 [INFO]: Connected to Redis
+2024-12-23 21:33:23 [INFO]: PING result: PONG
+2024-12-23 21:33:54 [INFO]: Connected to Redis
+2024-12-23 21:33:55 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:33:57 [INFO]: Connected to Redis
+2024-12-23 21:33:57 [INFO]: PING result: PONG
+2024-12-23 21:34:51 [INFO]: Connected to Redis
+2024-12-23 21:34:51 [INFO]: PING result: PONG
+2024-12-23 21:34:54 [INFO]: Connected to Redis
+2024-12-23 21:34:54 [INFO]: PING result: PONG
+2024-12-23 21:34:54 [INFO]: Connected to Redis
+2024-12-23 21:34:54 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:54 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:55 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:55 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:34:55 [INFO]: Connected to Redis
+2024-12-23 21:34:55 [INFO]: PING result: PONG
+2024-12-23 21:35:02 [INFO]: Connected to Redis
+2024-12-23 21:35:02 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:04 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:35:05 [INFO]: Connected to Redis
+2024-12-23 21:35:05 [INFO]: PING result: PONG
+2024-12-23 21:37:00 [INFO]: Connected to Redis
+2024-12-23 21:37:00 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: Connected to Redis
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:04 [INFO]: PING result: PONG
+2024-12-23 21:37:23 [INFO]: Connected to Redis
+2024-12-23 21:37:23 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: Connected to Redis
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:27 [INFO]: PING result: PONG
+2024-12-23 21:37:31 [INFO]: Connected to Redis
+2024-12-23 21:37:31 [INFO]: PING result: PONG
+2024-12-23 21:37:34 [INFO]: Connected to Redis
+2024-12-23 21:37:34 [INFO]: PING result: PONG
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: PING result: PONG
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: PING result: PONG
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:38 [INFO]: PING result: PONG
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:39 [INFO]: PING result: PONG
+2024-12-23 21:37:39 [INFO]: PING result: PONG
+2024-12-23 21:37:38 [INFO]: Connected to Redis
+2024-12-23 21:37:39 [INFO]: PING result: PONG
+2024-12-23 21:37:39 [INFO]: PING result: PONG
+2024-12-23 21:37:39 [INFO]: PING result: PONG
+2024-12-23 21:37:44 [INFO]: POST /api/v1/url/shorten
+2024-12-23 21:38:00 [INFO]: POST /api/v1/url/shorten
+2024-12-23 21:38:25 [INFO]: POST /api/v1/url/shorten
+2024-12-23 21:38:33 [INFO]: POST /api/v1/url/shorten
+2024-12-23 21:39:03 [INFO]: POST /api/v1/url/shorten
+2024-12-23 21:39:13 [INFO]: Connected to Redis
+2024-12-23 21:39:13 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: Connected to Redis
+2024-12-23 21:39:17 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:17 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: Connected to Redis
+2024-12-23 21:39:17 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:39:18 [INFO]: Connected to Redis
+2024-12-23 21:39:18 [INFO]: PING result: PONG
+2024-12-23 21:40:03 [INFO]: Connected to Redis
+2024-12-23 21:40:03 [INFO]: PING result: PONG
+2024-12-23 21:40:06 [INFO]: Connected to Redis
+2024-12-23 21:40:06 [INFO]: PING result: PONG
+2024-12-23 21:40:10 [INFO]: Connected to Redis
+2024-12-23 21:40:10 [INFO]: PING result: PONG
+2024-12-23 21:40:13 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:13 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:14 [INFO]: Connected to Redis
+2024-12-23 21:40:14 [INFO]: PING result: PONG
+2024-12-23 21:40:21 [INFO]: Connected to Redis
+2024-12-23 21:40:29 [INFO]: Connected to Redis
+2024-12-23 21:40:29 [INFO]: PING result: PONG
+2024-12-23 21:40:32 [INFO]: Connected to Redis
+2024-12-23 21:40:32 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: Connected to Redis
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: PING result: PONG
+2024-12-23 21:40:35 [INFO]: PING result: PONG
