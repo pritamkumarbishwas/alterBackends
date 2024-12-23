@@ -4,6 +4,8 @@ AlterBackends is a backend project built using **Node.js**, **Express.js**, and 
 
 
 # API Collection Already there . import in postman then test all endpoints
+# Note : Run Redis in Docker and locally 
+
 
 ## Features
 
